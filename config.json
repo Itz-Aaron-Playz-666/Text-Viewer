@@ -1,0 +1,12 @@
+{
+    "config":{
+        "path":"path/to/your/file.extension",
+        "system":{
+            "version":"latest",
+            "others":{
+                "efficiency":"primary",
+                "style":"secondary"
+            }
+        }
+    }
+}
